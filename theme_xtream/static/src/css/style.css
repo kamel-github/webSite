@@ -29,7 +29,7 @@ main {
 }
 
 .badge-primary {
-    background-color: #5FED83 !important;
+    background-color: #ec6e25 !important;
 }
 
 /**
@@ -602,7 +602,7 @@ template {
 }
 
 .banner_main .owl-carousel button.owl-dot.active span {
-  background-color: #5FED83;
+  background-color: #ec6e25;
 }
 
 .banner_main .owl-carousel .owl-dots {
@@ -736,9 +736,9 @@ template {
 
 .btn-primary {
   background-color: transparent !important;
-  color: #5FED83 !important;
+  color: #ec6e25 !important;
   border-radius: 0 !important;
-  border-color: #5FED83 !important;
+  border-color: #ec6e25 !important;
   padding: 12px 36px;
   font-size: 16px;
   font-weight: 600;
@@ -746,9 +746,9 @@ template {
 }
 
 .btn-primary:hover {
-  border-color: #5FED83 !important;
+  border-color: #ec6e25 !important;
   color: #fff !important;
-  background: #5FED83 !important;
+  background: #ec6e25 !important;
 }
 
 .btn-secondary{
@@ -771,13 +771,13 @@ template {
 }
 
 #special:hover {
-  border-color: #5FED83 !important;
+  border-color: #ec6e25 !important;
   color: #fff !important;
-  background: #5FED83 !important;
+  background: #ec6e25 !important;
 }
 
 .container .row #o_cart_summary .card .card-body .btn-secondary{
-  background-color: #5FED83 !important;
+  background-color: #ec6e25 !important;
   color: #fff !important;
   border: 0px solid !important;
 }
@@ -804,7 +804,7 @@ template {
 }
 
 .btn-checkout {
-  background-color: #5FED83 !important;
+  background-color: #ec6e25 !important;
   padding: 2px 9px;
   color: #fff !important;
   font-size: 13px;
@@ -824,7 +824,7 @@ template {
 }
 
 .btn-checkout_m {
-  background-color: #5FED83 !important;
+  background-color: #ec6e25 !important;
   text-decoration: none !important;
   padding: 7px 12px;
   color: #fff !important;
@@ -834,7 +834,7 @@ template {
 }
 
 .btn-cart_p {
-  background-color: #5FED83 !important;
+  background-color: #ec6e25 !important;
   color: #fff !important;
   font-size: 13px;
   border-radius: 0 !important;
@@ -903,7 +903,7 @@ template {
 
 .btn-checkout_c {
   text-transform: uppercase;
-  background-color: #5FED83 !important;
+  background-color: #ec6e25 !important;
   text-decoration: none !important;
   width: 100%;
   height: 60px;
@@ -923,7 +923,7 @@ template {
 .btn-contact {
   margin-top: 5px;
   text-transform: uppercase;
-  background-color: #5FED83 !important;
+  background-color: #ec6e25 !important;
   text-decoration: none !important;
   width: 100%;
   height: 40px !important;
@@ -1144,7 +1144,7 @@ template {
 .product .content a {
   font-size: 13px;
   font-weight: 700;
-  color: #5FED83;
+  color: #ec6e25;
   text-decoration: none;
 }
 
@@ -1325,7 +1325,7 @@ template {
 }
 
 .modal .model_details .product_count .icons span {
-  background: #5FED83;
+  background: #ec6e25;
   color: #fff;
   font-size: 16px;
   padding: 9px 10px;
@@ -1411,7 +1411,7 @@ template {
 }
 
 .heading::first-letter {
-  color: #5FED83;
+  color: #ec6e25;
 }
 
 .heading hr {
@@ -1459,7 +1459,7 @@ template {
 
 .top_nav .wrapper .nav_right .bag span {
   color: #fff;
-  background-color: #5FED83;
+  background-color: #ec6e25;
   height: 20px;
   width: 20px;
   font-size: 13px;
@@ -1537,7 +1537,7 @@ template {
 }
 
 .navigation .help-line {
-  background-color: #5FED83;
+  background-color: #ec6e25;
   width: auto;
   height: 35px;
   padding: 0 30px;
@@ -1556,7 +1556,7 @@ template {
   background-color: #031B09;
 }
 .help-line {
-  background-color: #5FED83;
+  background-color: #ec6e25;
   width: auto;
   height: 35px;
   padding: 0 30px;
@@ -1589,8 +1589,8 @@ template {
 
 .navbar-dark .navbar-toggler {
   border: 2px solid;
-  border-color: #5FED83;
-  background-color: #5FED83;
+  border-color: #ec6e25;
+  background-color: #ec6e25;
   border-radius: 0;
 }
 
@@ -1610,7 +1610,7 @@ template {
 
 .navbar-dark .navbar-brand .footer_icon .link_top {
   color: #fff;
-  background: #5FED83;
+  background: #ec6e25;
   font-size: 11px;
   padding: 5px 12px;
   font-weight: 700;
@@ -1627,7 +1627,7 @@ template {
   height: 0;
   border-style: solid;
   border-width: 0 9px 9px 9px;
-  border-color: transparent transparent #5FED83 transparent;
+  border-color: transparent transparent #ec6e25 transparent;
   bottom: -2px;
   left: -6px;
   transform: rotate(-45deg);
@@ -1649,7 +1649,7 @@ template {
 
 .navbar-nav .link_top {
   color: #fff;
-  background: #5FED83;
+  background: #ec6e25;
   font-size: 11px;
   padding: 5px 15px;
   font-weight: 700;
@@ -1742,7 +1742,7 @@ template {
 }
 
 .navbar-dark .navbar-nav .nav-item .dropdown-menu .dropdown-item:active {
-  background-color: #5FED83;
+  background-color: #ec6e25;
   color: #fff;
 }
 
@@ -1769,7 +1769,7 @@ template {
 }
 
 .sidenav a:hover {
-  color: #5FED83;
+  color: #ec6e25;
 }
 
 .sidenav .closebtn {
@@ -1844,7 +1844,7 @@ template {
 }
 
 .card-footer .footer_content .heading::first-letter {
-  color: #5FED83;
+  color: #ec6e25;
 }
 
 .card-footer .footer_content .heading hr {
@@ -1994,7 +1994,7 @@ template {
 .form-control:focus {
   color: #495057;
   background-color: #fff;
-  border-color: #5FED83;
+  border-color: #ec6e25;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25);
 }
@@ -2044,7 +2044,7 @@ template {
 
 .sidebar .wrapper .card .card-header .nav-item .nav-link.active, .nav-pills .show > .nav-link {
     color: #fff;
-    background-color: #5FED83;
+    background-color: #ec6e25;
 }
 .sidebar .wrapper .card .card-header .nav-item a {
     color: #031B09;
@@ -2071,7 +2071,7 @@ template {
 
 .sidebar .wrapper .card .card-header .custom-checkbox .custom-control-input:checked ~ .custom-control-label::before {
   color: #a5a3a3;
-  border-color: #5FED83;
+  border-color: #ec6e25;
   background-color: #ff1f49;
   box-shadow: none !important;
 }
@@ -2125,7 +2125,7 @@ template {
 }
 
 .sidebar .wrapper .color li a:hover {
-  color: #5FED83;
+  color: #ec6e25;
 }
 
 .sidebar .wrapper .color li span {
@@ -2141,7 +2141,7 @@ template {
 
 .sidebar .wrapper .color li span:hover {
   border: 3px solid !important;
-  border-color: #5FED83;
+  border-color: #ec6e25;
 }
 
 .sidebar .wrapper .color li P {
@@ -2187,7 +2187,7 @@ template {
 }
 
 .sidebar .wrapper .size li span:hover {
-  background-color: #5FED83 !important;
+  background-color: #ec6e25 !important;
   color: #fff;
 }
 
@@ -2452,7 +2452,7 @@ template {
 }
 
 .amazing .amazing_bg .rate span:last-child {
-  color: #5FED83;
+  color: #ec6e25;
   font-size: 35px;
   margin-left: 10px;
   font-weight: 600;
@@ -2497,7 +2497,7 @@ template {
 }
 
 .testiomonial .wrapper .testimonial_content span {
-  color: #5FED83;
+  color: #ec6e25;
   font-size: 30px;
   text-align: center;
   justify-content: center;
@@ -2548,7 +2548,7 @@ template {
 }
 
 .testiomonial .wrapper .testimonial_content .img_test .name span {
-  color: #5FED83;
+  color: #ec6e25;
   font-size: 16px;
   font-weight: 700;
 }
@@ -2566,7 +2566,7 @@ template {
 }
 
 .testiomonial .owl-carousel button.owl-dot.active span {
-  background-color: #5FED83 !important;
+  background-color: #ec6e25 !important;
 }
 
 .testiomonial .owl-carousel .owl-dots {
@@ -2644,7 +2644,7 @@ template {
 .discount .dicount_content2 {
   text-align: center;
   color: #fff;
-  background-color: #5FED83;
+  background-color: #ec6e25;
   padding: 40px 15px;
 }
 
@@ -2782,14 +2782,14 @@ template {
 
 .oe_product_cart .o_wsale_product_btn .btn{
   background-color: white !important;
-  color: #5FED83 !important;
-  border-color: #5FED83 !important;
+  color: #ec6e25 !important;
+  border-color: #ec6e25 !important;
   border-radius: 100% !important;
 }
 
 .oe_product_cart .o_wsale_product_btn .btn:hover{
   background-color: transparent !important;
-  color: #5FED83 !important;
+  color: #ec6e25 !important;
   border-color: #031B09 !important;
   border-radius: 100% !important;
 }
@@ -3165,7 +3165,7 @@ span[data-oe-type="monetary"] .oe_currency_value{
 }
 
 .Shop_product .modal .model_details .product_count .icons span {
-  background: #5FED83;
+  background: #ec6e25;
   color: #fff;
   font-size: 16px;
   padding: 9px 10px;
@@ -3200,9 +3200,9 @@ span[data-oe-type="monetary"] .oe_currency_value{
 }
 
 .products_pager .pagination .page-item.active .page-link {
-  color: #5FED83;
+  color: #ec6e25;
   background-color: transparent;
-  border-color: #5FED83;
+  border-color: #ec6e25;
 }
 
 .products_pager .pagination .page-item .page-link {
@@ -3218,8 +3218,8 @@ span[data-oe-type="monetary"] .oe_currency_value{
 }
 
 .products_pager .pagination .page-item .page-link:hover {
-  color: #5FED83;
-  border-color: #5FED83 !important;
+  color: #ec6e25;
+  border-color: #ec6e25 !important;
 }
 
 .product_preview {
@@ -3348,9 +3348,9 @@ span[data-oe-type="monetary"] .oe_currency_value{
 }
 
 .product_preview .product_p .wrapper .preview_details .size_wrapper .size span:hover {
-  background-color: #5FED83 !important;
+  background-color: #ec6e25 !important;
   color: #fff;
-  border-color: #5FED83 !important;
+  border-color: #ec6e25 !important;
 }
 
 .product_preview .product_p .wrapper .preview_details .product_quantity {
@@ -3397,7 +3397,7 @@ span[data-oe-type="monetary"] .oe_currency_value{
 }
 
 .collpase_wrapper .accordion:nth-child(2) .card {
-  border-bottom-color: #5FED83;
+  border-bottom-color: #ec6e25;
 }
 
 .collpase_wrapper .accordion .card {
@@ -3434,7 +3434,7 @@ span[data-oe-type="monetary"] .oe_currency_value{
 }
 
 .product_preview .product_p .wrapper .preview_details .collpase_wrapper .accordion:nth-child(2) .card {
-  border-bottom-color: #5FED83;
+  border-bottom-color: #ec6e25;
 }
 
 .product_preview .product_p .wrapper .preview_details .collpase_wrapper .accordion .card {
@@ -3656,7 +3656,7 @@ span[data-oe-type="monetary"] .oe_currency_value{
 
 .cart .cart_bottom .coupen .input-group .input-group-text {
   border-radius: 0;
-  background-color: #5FED83;
+  background-color: #ec6e25;
   padding: 0 20px;
   color: #fff;
   border: 1px solid;
@@ -3666,7 +3666,7 @@ span[data-oe-type="monetary"] .oe_currency_value{
 .cart .cart_bottom .coupen .form-control:focus {
   color: #495057;
   background-color: #fff;
-  border-color: #5FED83;
+  border-color: #ec6e25;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25);
 }
@@ -3732,7 +3732,7 @@ span[data-oe-type="monetary"] .oe_currency_value{
 .checkout_autoformat .form-row .form-control:focus {
   color: #495057 !important;
   background-color: #fff !important;
-  border-color: #5FED83 !important;
+  border-color: #ec6e25 !important;
   outline: 0 !important;
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25) !important;
 }
@@ -3758,7 +3758,7 @@ span[data-oe-type="monetary"] .oe_currency_value{
 .checkout .checkout_left .form-control:focus {
   color: #495057;
   background-color: #fff;
-  border-color: #5FED83 !important;
+  border-color: #ec6e25 !important;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25);
 }
@@ -3962,7 +3962,7 @@ span[data-oe-type="monetary"] .oe_currency_value{
 .contact .contact_left .name .contact-form .form-control:focus {
   color: #495057;
   background-color: #fff;
-  border-bottom-color: #5FED83 !important;
+  border-bottom-color: #ec6e25 !important;
   outline: 0;
   box-shadow: none;
 }
