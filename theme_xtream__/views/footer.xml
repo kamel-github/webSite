@@ -17,7 +17,7 @@
                                                 </div>
                                             </a>
                                             <div class="made_by">
-                                                teeeeesssst Copyright ©2021 All rights reserved | This template is made
+                                                Copyright ©2021 All rights reserved | This template is made
                                                 <span class="fa fa-heart"/> with by <a href="#" class="cybro">Cybrosys</a>
                                             </div>
                                         </div>
@@ -46,7 +46,6 @@
                                     <div class="col-lg-5  col-12">
                                         <div class="subscribe">
                                             <h4>Subscribe to our newsletter</h4>
-											<h4>Subscribe to our newsletter teeeeeeeeeest</h4>
                                             <div class="input-group md-form form-sm form-2 ">
                                                 <input class="form-control  red-border" type="text" placeholder="Your email here"
                                                        aria-label="Your_email_here"/>
