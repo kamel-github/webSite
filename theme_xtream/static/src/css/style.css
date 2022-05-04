@@ -4441,3 +4441,47 @@ section.card-footer {
 .card-footer-pos {
     display: flex;
 }
+.nav-footer-title {
+    font-weight: 600;
+    color: #222;
+    display: inline-block;
+   
+}
+.nav-footer-content {
+    display: inline-block;
+}
+.nav-links {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+    padding-left: 0px!important;
+}
+.nav-link {
+    display: inline-block;
+    position: relative;
+    padding: 0 10px;
+}
+.middle-bottom {
+    border-top: 1px solid #e2e2e2;
+    padding: 15px 0px 30px;
+    margin-top: 40px;
+}
+li.nav-link a {
+    color: #b1b1b1 !important;
+}
+    li.nav-link a:hover {
+        color: #ed6f26 !important;
+    }
+ .nav-link.link-0:after {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    height: 12px;
+    width: 1px;
+    content: "";
+    background-color: #e2e2e2;
+}
+.o_footer .o_footer_copyright {
+    background-color: #222!important;
+}

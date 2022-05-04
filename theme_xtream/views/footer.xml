@@ -132,7 +132,129 @@
                                 </div>
                             </div>
 
-						
+						<div class="footer-block">
+							<div class="middle-bottom"> </div>
+							<p class="nav-footer-title">Electromenager:</p>
+							<div class="nav-footer-content">
+								<ul class="items nav-links hover-link01">
+									<li class="nav-link link-0">
+										<a href="">Petit Electromenager</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Petit dejeuner</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Appareil De cuisine</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Maison Entretien</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Appareil Coiffure</a>
+									</li>
+									<li class="nav-link last">
+										<a href="">Gros Electro</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="nav-footer">
+							<p class="nav-footer-title">Cuisine:</p>
+							<div class="nav-footer-content">
+								<ul class="items nav-links hover-link01">
+									<li class="nav-link link-0">
+										<a href="">Ustensile de Cuisine</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Casserole</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Service Table</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href=""> Accessoire De Table</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Boite à gouter</a>
+									</li>
+									<li class="nav-link last">
+										<a href="">Thermos</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="nav-footer">
+							<p class="nav-footer-title">Bagagerie:</p>
+							<div class="nav-footer-content">
+								<ul class="items nav-links hover-link01">
+									<li class="nav-link link-0">
+										<a href="">Valise</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Coffrets Cadeaux</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Cartable</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Sac a Dos</a>
+									</li>
+									<li class="nav-link last">
+										<a href="">Porte gouter</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="nav-footer">
+							<p class="nav-footer-title">Mode:</p>
+							<div class="nav-footer-content">
+								<ul class="items nav-links hover-link01">
+									<li class="nav-link link-0">
+										<a href="">Robe</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Sacs</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href=""> Lunette De Soleil</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Chaussures</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Bijouterie</a>
+									</li>
+									<li class="nav-link last">
+										<a href="">Maternité</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="nav-footer">
+							<p class="nav-footer-title">Beauté / Bien être:</p>
+							<div class="nav-footer-content">
+								<ul class="items nav-links hover-link01">
+									<li class="nav-link link-0">
+										<a href="">Maquillage</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Parfum</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Huiles et argiles</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Cosmétique BIO</a>
+									</li>
+									<li class="nav-link link-0">
+										<a href="">Parapharmacie</a>
+									</li>
+									<li class="nav-link last">
+										<a href="">Idée cadeaux</a>
+									</li>
+								</ul>
+							</div>
+						</div>
 						
                     </section>
                 </section>
