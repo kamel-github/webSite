@@ -18,7 +18,8 @@ html {
    * Remove the margin in all browsers.
    */
 body {
-  margin: 0;
+    margin: 0;
+    font: 400 14px/1.35 Montserrat, Helvetica Neue, Verdana, Arial, sans-serif;
 }
 
 /**
@@ -32,6 +33,12 @@ main {
     background-color: #ec6e25 !important;
 }
 
+* {
+    list-style-type: none;
+    font-family: "montserrat"!important;
+    font-size: 14px;
+}
+
 /**
    * Correct the font size and margin on `h1` elements within `section` and
    * `article` contexts in Chrome, Firefox, and Safari.
@@ -39,7 +46,7 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
-  font-family: "Poppins", sans-serif;
+  font-family: Montserrat, sans-serif;
 }
 
 /* Grouping content
@@ -355,7 +362,7 @@ template {
 
 * {
   list-style-type: none;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat";
   font-size: 14px;
 }
 
@@ -731,7 +738,7 @@ template {
   transition: 0.5s;
   box-shadow: none !important;
   font-weight: 400;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat";
 }
 
 .btn-primary {
@@ -1928,10 +1935,10 @@ template {
     text-transform: uppercase;
 }
 .subscribe {
-    font-size: 20px;
-    font-weight: bold;
-    color: #000 !important;
     margin: 10px 15px 0px 0px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #222 !important;
 }
 .card-footer .footer_content .subscribe .input-group {
     width: 100%;
@@ -2044,8 +2051,8 @@ template {
   border: none;
 }
 
-#wsale_products_attributes_collapse .js_attributes .nav .nav-item strong{
-  font-family: "Poppins", sans-serif !important;
+#wsale_products_attributes_collapse .js_attributes .nav .nav-item strong {
+    font-family: "Montserrat" !important;
 }
 
 .sidebar .wrapper .card .card-header .nav-item .nav-link.active, .nav-pills .show > .nav-link {
@@ -2889,6 +2896,8 @@ span[data-oe-type="monetary"] .oe_currency_value{
   width: 33.33%;
   display: none;
   /* Hide all elements by default */
+
+
 }
 
 .Shop_product .row:after {
@@ -4106,7 +4115,7 @@ span#basic-text1 i {
     margin-bottom: 0px !important;
 }
 a.nav-link span {
-    font-size: 16px;
+    font: 600 16px/1.35 Montserrat, Helvetica Neue, Verdana, Arial, sans-serif;
 }
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 2.5rem!important;
@@ -4142,6 +4151,8 @@ a.nav-link span {
     margin-top: 5px;
     font-weight: 700;
     text-align: center;
+    width: max-content;
+    margin-right: 10px;
 }
 header .navbar-brand.logo img {
     object-fit: cover;
@@ -4398,6 +4409,21 @@ header .navbar-brand {
         white-space: nowrap;
         display: flex;
     }
+    .label {
+        display: inline-block;
+        font-size: 12px;
+        width: 100%;
+        height: auto;
+        clip: auto;
+        position: relative;
+        margin: 0;
+        padding: 0;
+        margin-top: 5px;
+        font-weight: 700;
+        text-align: center;
+        width: auto;
+        margin-right: 0px;
+    }
 }
 
 
@@ -4484,4 +4510,84 @@ li.nav-link a {
 }
 .o_footer .o_footer_copyright {
     background-color: #222!important;
+}
+.made_by {
+    color: #9f9f9f;
+    margin-top: 20px;
+    line-height: 2;
+}
+.footer-desk{
+    display:block;
+}
+
+.footer-mobile {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+
+    li.scale-up-ver-center a {
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: 500;
+        color: #b1b1b1 !important;
+        margin-left: -6%;
+    }
+
+    .title-cl {
+        cursor: pointer;
+        text-transform: capitalize;
+        font-style: italic;
+        margin-top: 20px;
+    }
+
+        .title-cl:after {
+            display: inline-block;
+            font-family: FontAwesome;
+            font-weight: normal;
+            line-height: 1;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            content: '\f105';
+            font-size: 24px;
+            vertical-align: middle;
+            float: right;
+            margin-top: -6px;
+            width: 30px;
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+            font-style: normal;
+            transition: all 500ms ease;
+            backface-visibility: hidden;
+        }
+     
+
+    .footer-mobile {
+        display: block;
+    }
+
+    .footer-desk {
+        display: none!important;
+    }
+}
+
+.d-block {
+    display: block !important;
+    padding-bottom: 20px;
+}
+
+span.fa.fa-chevron-right.fa-2x.text-white {
+    padding-top: 35px;
+    color: #fff !important;
+    border: 1px solid #fff;
+    width: 60px;
+    height: 100px;
+}
+span.fa.fa-chevron-left.fa-2x.text-white {
+    padding-top: 35px;
+    color: #fff !important;
+    border: 1px solid #fff;
+    width: 60px;
+    height: 100px;
 }

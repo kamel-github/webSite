@@ -48,6 +48,9 @@
         'views/snippets/main_product.xml',
         'views/snippets/map.xml',
         'views/snippets/testimonial.xml',
+        'views/snippets/caroussel.xml',
+        'views/snippets/list_categories.xml',
+        
     ],
     'assets': {
       'web.assets_frontend': [
