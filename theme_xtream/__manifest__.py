@@ -50,6 +50,14 @@
         'views/snippets/testimonial.xml',
         'views/snippets/caroussel.xml',
         'views/snippets/list_categories.xml',
+        'views/snippets/info.xml',
+        'views/snippets/countdown_wamia.xml',
+        'views/snippets/product_tabs.xml',
+        'views/snippets/banner_wamia.xml',
+         'views/snippets/product_wamia.xml',
+        
+        
+        
         
     ],
     'assets': {
